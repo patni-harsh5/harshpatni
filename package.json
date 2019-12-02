@@ -1,6 +1,6 @@
 {
   "name": "harshpatni",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Harsh Patni (@harshpatni)",
   "main": "dist/card.js",
   "unpkg": "index.html",
